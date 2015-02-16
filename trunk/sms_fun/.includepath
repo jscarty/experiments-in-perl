@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<includepath>
+  <includepathentry path="${project_loc}/Users/jcarty/perl5/perlbrew/perls/perl-5.16.0/lib/site_perl/5.16.0/XML/LibXML" />
+  <includepathentry path="/Users/jcarty/perl5/perlbrew/perls/perl-5.16.0/lib/site_perl/5.16.0/XML/LibXML" />
+  <includepathentry path="/Users/jcarty/perl5/perlbrew/perls/perl-5.16.0/lib/site_perl/5.16.0/XML" />
+  <includepathentry path="/Users/jcarty/perl5/perlbrew/perls/perl-5.16.0/lib/site_perl/5.16.0" />
+</includepath>
+
