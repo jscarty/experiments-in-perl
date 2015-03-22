@@ -8,9 +8,17 @@ my $total;
 my $fizzpoint;
 sub fizzbuzz{
     $fizzpoint = shift;
-    for (my $i = 0; $i <= $fizzpoint) {
-        if ($i/3 && /\\D/){
-        
+    for (my $i = 0; $i <= $fizzpoint; $i ++) {
+        if ($i%3 == 0){
+         $total += $i;
         }
+        else{
+        	        if ($i%5 == 0){
+         $total += $i;
+        }
+        }
+
     }
+    print "The answer is ".$total;
 }
+1;
