@@ -1,3 +1,5 @@
+#Prject Euler work. Problem One Solved.
+
 #!/usr/bin/perl
 use warnings;
 use strict;
